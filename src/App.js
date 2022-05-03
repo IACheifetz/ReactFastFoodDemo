@@ -5,7 +5,7 @@ import foodDropdown from './foodDropdown.js';
 import drinkDropdown from './drinkDropdown.js';
 import sideDropdown from './sideDropdown.js';
 import instructionList from './instructionList.js';
-import instructionForm from './instructionForm.js';
+import InstructionForm from './instructionForm.js';
 import orderNameInput from './orderNameInput.js';
 import order from './order.js';
 
