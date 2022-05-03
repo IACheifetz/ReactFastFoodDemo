@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import './App.css';
 
-import FoodDropdown from './foodDropdown.js';
+import FoodDropdown from './FoodDropdown.js';
 import DrinkDropdown from './drinkDropdown.js';
-import SideDropdown from './sideDropdown.js';
+import SideDropdown from './SideDropdown.js';
 import InstructionList from './instructionList.js';
 import InstructionForm from './instructionForm.js';
 import OrderNameInput from './orderNameInput.js';
