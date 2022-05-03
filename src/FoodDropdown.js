@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function foodDropdown(props) {
+export default function FoodDropdown(props) {
   return (
     <div>
       Select an Entree

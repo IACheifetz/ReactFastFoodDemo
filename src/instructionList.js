@@ -1,7 +1,7 @@
 import React from 'react';
 import Instruction from './instruction.js';
 
-export default function instructionList(props) {
+export default function InstructionList(props) {
   return (
     <section>
       <h2>Your special order instructions:</h2>

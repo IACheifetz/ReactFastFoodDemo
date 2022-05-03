@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function sideDropdown(props) {
+export default function SideDropdown(props) {
   return (
     <div>
       Select a Side
